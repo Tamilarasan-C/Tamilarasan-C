@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tamilarasan C
+- 👋 Hi, I’m Tamilarasan C
 - 👀 I’m interested in developing software for Embedded applications and Robots.
 - 🌱 I’m currently learning ROS and Linux.
 - 💞️ I’m looking to collaborate with people and companies developing Smart Embedded products and Robots etc.
